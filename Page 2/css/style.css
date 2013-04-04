@@ -1,0 +1,82 @@
+
+body {
+     background: url('../images/az_subtle.png');
+     color: #194D3C;
+     font-family: Verdana, Arial sans-serif;
+}
+
+h1 {
+     text-align: center;
+}
+
+#container {
+     margin: 20px 50px;
+}
+
+ol {
+     list-style: none;
+}
+
+li {
+     padding: 5px;
+}
+
+#middle-container {
+     overflow: auto;
+     padding: 50px 0;
+     background: rgba(101, 200, 55, 0.6);
+     border-radius: 10px;
+     margin: 20px 0;
+     box-shadow: 0px 2px 30px;
+}
+
+#details, #options, #submit-button {
+     float: left;
+}
+
+#location {
+     position: relative;
+     top: 45px;
+     left: 50px;
+}
+
+#location li {
+     padding: 10px;
+}
+
+#options {
+     text-align: center;
+}
+
+#submit-button {
+     text-align: center;
+}
+
+#submit-button input {
+     position: relative;
+     top: 90px;
+     background: rgba(95, 132, 159, 0.7);
+     border: none;
+     border-radius: 4px;
+     width: 90px;
+     height: 40px;
+}
+
+#submit-button input:hover {
+     background: rgba(95, 132, 159, 0.8);
+}
+
+.element {
+     width: 33%;
+}
+
+#links {
+     text-align: center;
+}
+
+footer {
+     text-align: right;
+}
+
+
+
